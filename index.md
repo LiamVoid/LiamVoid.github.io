@@ -14,7 +14,6 @@ Gameboy Modding Service - Contact me for more info
 willrocks07@gmail.com
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Support or Contact
