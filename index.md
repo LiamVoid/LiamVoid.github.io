@@ -8,11 +8,10 @@ I mod a lot of different retro consoles - Mostly Gameboy's and PSP's
 
 ```markdown
 Karla - A simple BATch Assistant - Includes Games, Calculator + More
-https://github.com/LiamVoid/Karla
+[https://github.com/LiamVoid/Karla](Karla)
 
 Gameboy Modding Service - Contact me for more info
 willrocks07@gmail.com
-LiamVoid.github.io/Gameboy.md
 ```
 
 ### A bit of Code from Karla
