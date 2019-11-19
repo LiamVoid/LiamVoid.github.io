@@ -14,8 +14,10 @@ Gameboy Modding Service - Contact me for more info
 willrocks07@gmail.com
 LiamVoid.github.io/Gameboy.md
 ```
-### **A bit of Code from Karla**
-`:choice
+
+### A bit of Code from Karla
+```markdown
+:choice
 set /p Name="Hi there! Im Karla a BATch assistant, Whats Your Name? "
 goto:Guest
 
@@ -39,8 +41,8 @@ set /P c=Im hungry how bout you[Y/N]?
 if /I "%c%" EQU "Y" goto :Convo1EndY
 if /I "%c%" EQU "N" goto :Convo1EndY
 if /I "%c%" EQU "Z" goto :Request
-goto :Convo1`
-
+goto :Convo1
+```
 
 
 <script src="https://gist.github.com/LiamVoid/42ce885968ab72d48685a5932ca45e37.js"></script>
