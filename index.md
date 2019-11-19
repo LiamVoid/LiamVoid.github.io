@@ -14,7 +14,7 @@ Gameboy Modding Service - Contact me for more info
 willrocks07@gmail.com
 LiamVoid.github.io/Gameboy.md
 ```
-
+<script src="https://gist.github.com/LiamVoid/42ce885968ab72d48685a5932ca45e37.js"></script>
 
 
 ### Support or Contact
